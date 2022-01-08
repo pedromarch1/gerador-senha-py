@@ -9,4 +9,4 @@ def pswrd(ch_number, uppercase=True, lowercase=True, numbers=True):
         p += string.ascii_lowercase
     if numbers:
         p += string.digits
-    return ''.join(random.choice(s) for i in range(ch_number))
+    return ''.join(random.choice(p) for i in range(ch_number))

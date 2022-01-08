@@ -1,4 +1,4 @@
 # gerador-senha-py
-Script Python que gera uma senha, misturando letras e números. Basta declarar o tamanho da string e o script executa funcionalmente a geração aleatória 
+Python script which generate a password, using numbers and capital letters for generating a hesh
 
-Basta inserir o número de caracteres e se deseja combinações de letras maiúsculas e números. O arquivo imprimirá uma senha completamente aleatória e segura
+With this script, you can define the character length, if you want capital letters and numbers. The password will be generated within seconds, being totally safe for any usage.
